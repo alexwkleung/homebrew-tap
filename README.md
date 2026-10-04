@@ -1,6 +1,6 @@
 # alexwkleung/homebrew-tap
 
-Homebrew formulae for [reika](https://github.com/alexwkleung/reika), a coding agent CLI for small, heavily quantized local models.
+Homebrew formulae for [reika](https://github.com/alexwkleung/reika), a coding agent CLI for local and hosted models, designed around small local models first. Docs: [reikacode.com](https://reikacode.com).
 
 ```sh
 brew install alexwkleung/tap/reika
