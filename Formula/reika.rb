@@ -1,8 +1,8 @@
 class Reika < Formula
   desc "Coding agent CLI for local and hosted models"
   homepage "https://reikacode.com"
-  url "https://registry.npmjs.org/reika/-/reika-0.1.0.tgz"
-  sha256 "f183773cacc1875e1be08db36212d208e5b6a1fb0079f2adb611a56501136bd6"
+  url "https://registry.npmjs.org/@alexwkleung/reika/-/reika-0.1.0.tgz"
+  sha256 "43592067b03e22c1fef4fadb160ddcbc2600fb760ec4007589447c409dd22d6d"
   license "Apache-2.0"
 
   depends_on "node"
